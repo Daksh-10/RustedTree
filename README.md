@@ -19,8 +19,8 @@ a parent node is picked up. Serialization implies you don’t create human reada
 rather program readable data in the same data structure it’s initialized before dumping.
 
 **Installation**
-1. '''git clone https://github.com/Daksh-10/RustedTree.git'''
-2. Change directory to RustedTree '''cd RustedTree'''
-3. To build the program '''cargo build'''
-4. To run the program '''cargo run'''
+1. ```git clone https://github.com/Daksh-10/RustedTree.git```
+2. Change directory to RustedTree ```cd RustedTree```
+3. To build the program ```cargo build```
+4. To run the program ```cargo run```
 
