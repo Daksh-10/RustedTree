@@ -24,3 +24,6 @@ rather program readable data in the same data structure it’s initialized befor
 3. To build the program ```cargo build```
 4. To run the program ```cargo run```
 
+**Visualize**
+
+![image](https://github.com/user-attachments/assets/fcc71b07-95ae-4668-be99-136589d39c08)
