@@ -27,3 +27,7 @@ rather program readable data in the same data structure it’s initialized befor
 **Visualize**
 
 ![image](https://github.com/user-attachments/assets/fcc71b07-95ae-4668-be99-136589d39c08)
+
+**Output**
+
+![image](https://github.com/user-attachments/assets/f2185923-d7f9-4668-ad1a-bd70d7747e2f)
